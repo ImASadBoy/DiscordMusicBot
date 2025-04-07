@@ -6,7 +6,7 @@ This bot is not lightweight and meant to be as fancy as possible, so it is recco
   <img src="player.jpg" />
 </p>
 
-#  **🎧 Feaures**
+#  **🎧 Features**
 - YouTube and Spotify support (plus many more such as Tidal, Deezer, SoundCloud...)
 - Support for playlists
 - Command-less, use the in-message player to control it.
