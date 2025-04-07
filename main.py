@@ -369,7 +369,7 @@ async def startMusic(ctx, voice_client):
      await ctx.followup.send(f"An error occurred: {str(e)}", ephemeral=True, delete_after=8)
      return
 
-@bot.slash_command(name="play", description="play music!", guild_ids=[697189706995335219])
+@bot.slash_command(name="play", description="play music!")
 @discord.option("song", type=discord.SlashCommandOptionType.string)
 async def playMusic(ctx: discord.ApplicationContext, song: str, from_queue=False):
     '''
