@@ -6,13 +6,11 @@ attrs==25.1.0
 certifi==2025.1.31
 cffi==1.17.1
 charset-normalizer==3.4.1
-discord.py==2.4.0
 ffmpeg-python==0.2.0
 frozenlist==1.5.0
 future==1.0.0
 idna==3.10
 multidict==6.1.0
-pip==24.0
 propcache==0.2.1
 py-cord==2.6.1
 pycparser==2.22
