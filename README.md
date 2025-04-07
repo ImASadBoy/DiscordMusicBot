@@ -3,7 +3,7 @@ A Discord Music Bot that can reproduce audio from many sources, including YouTub
 This bot is not lightweight and meant to be as fancy as possible, so it is reccomended to only run it in a few servers at a time
 
 <p align="center">
-  <img src="./Assets/player.jpg" />
+  <img src="player.jpg" />
 </p>
 
 #  **🎧 Feaures**
