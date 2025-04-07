@@ -1,5 +1,6 @@
 <h1 align="center">Advanced Discord Music Bot</h1>
 A Discord Music Bot that can reproduce audio from many sources, including YouTube and support for Spotify, features a very nice "in-message UI" and does not spam your voice channel with thousands of messages, it only sends one message the first time it is invoked and keeps editing that, using it as a player.
+
 This bot is not lightweight and meant to be as fancy as possible, so it is reccomended to only run it in a few servers at a time
 
 <p align="center">
